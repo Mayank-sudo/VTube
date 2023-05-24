@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+
+.box{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 590px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+#but{
+vertical-align: center;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    display: inline-block;
+}
+
+
+/* input{
+    margin-top: 40px;
+} */
